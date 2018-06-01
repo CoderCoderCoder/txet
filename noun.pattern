@@ -1,0 +1,7 @@
+\b{article} ([\w\s]+?)(?:\b{preposition}\b|\b{connective}\b|[,\.;\?]|$)
+
+where
+
+{article} (?:a|an|the|some|several|many|various)
+{preposition} (?:aboard|about|above|across|after|against|along|alongside|amid|among|amongst|around|as|astride|at|atop|before|behind|below|beneath|beside|besides|between|beyond|by|despite|down|during|except|for|from|in|inside|into|like|near|of|off|on|onto|opposite|out|outside|over|past|since|than|through|throughout|till|to|toward|towards|under|underneath|unlike|until|up|upon|with|within)
+{connective} (?:and|that|which|where|you|your|he|she|it)

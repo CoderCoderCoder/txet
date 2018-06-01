@@ -1,0 +1,4 @@
+You are in a room that has a door to the north and to the south. There is a cat, someone wearing a hat, and a key on a table.
+
+- Items have some level of priority (e.g. doors have more priority)
+- Items have some level of connection to other items.

@@ -1,0 +1,6 @@
+eat
+attack
+get
+talk to
+use
+wear
